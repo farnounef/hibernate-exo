@@ -1,0 +1,2 @@
+# hibernate-exo
+exercices hibernate
